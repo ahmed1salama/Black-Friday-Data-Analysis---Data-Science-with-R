@@ -1,7 +1,11 @@
+# Association Rule Mining
+
 library(arules)
 library(arulesViz)
 library(dplyr)
 library(tidyverse)
+
+
 
 rm(list=ls())
 setwd("E:/4fourthyear\\second\\Big Data Analytics\\Project\\Black-Friday-Data-Analysis-Data-Science-with-R")
